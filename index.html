@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela Nutricional Interativa</title>
+    <style>
+        #drop-zone {
+            text-align: center;
+        }
+        #drop-zone h2 {
+            margin-bottom: 0;
+        }
+        #drop-zone h4 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tabela Nutricional Interativa</h1>
+        <div><input type="text" placeholder="Busca Rápida (ex: arroz, potássio)">
+           <button id="botao-busca"> Listagem Completa </button>
+        </div>
+    </header>
+    <main> 
+        <section class="card-container">
+            <!-- Cards de alimentos serão inseridos aqui pelo JavaScript -->
+        </section>
+        <section id="drop-zone">
+            <h2>Monte sua refeição</h2>
+            <h4>Arraste o item até aqui</h4>
+            <!-- Cards arrastados aparecerão aqui -->
+        </section>
+    </main>
+    <footer class="footer"> 
+        <ul class="footer-links">
+        <li> 
+            <a href="https://github.com/hikawaromeu">GitHub</a>
+        </li>
+                <li> 
+            <a href="https://www.linkedin.com/in/jo%C3%A3o-romeu-8722a4102/">Linkedin</a>
+        </li>
+    </ul> </footer>
+    <script src="script.js"></script>
+</body>
+</html>

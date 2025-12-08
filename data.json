@@ -1,0 +1,2083 @@
+[
+  {
+    "nome": "Abacaxi",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 50kcal",
+    "carbo": "Carboidratos 13g",
+    "proteinas": "Proteínas 0.5g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Fruta",
+      "Digestivo",
+      "Vitamina C",
+      "Tropical"
+    ]
+  },
+  {
+    "nome": "Abacate",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 160kcal",
+    "carbo": "Carboidratos 8.5g",
+    "proteinas": "Proteínas 2g",
+    "gordura": "Gorduras Totais 15g",
+    "tags": [
+      "Fruta",
+      "Gordura Saudável",
+      "Fonte de Fibra"
+    ]
+  },
+  {
+    "nome": "Abóbora Cabotiá Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 40kcal",
+    "carbo": "Carboidratos 10g",
+    "proteinas": "Proteínas 1g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Legume",
+      "Betacaroteno",
+      "Baixa Caloria",
+      "Fonte de Fibra"
+    ]
+  },
+  {
+    "nome": "Abobrinha Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 17kcal",
+    "carbo": "Carboidratos 3.1g",
+    "proteinas": "Proteínas 1.2g",
+    "gordura": "Gorduras Totais 0.3g",
+    "tags": [
+      "Vegetal",
+      "Legume",
+      "Baixa Caloria"
+    ]
+  },
+  {
+    "nome": "Açúcar Refinado",
+    "porcao": "Porção 5g (1 col. de chá)",
+    "energia": "Valor Energético 20 kcal",
+    "carbo": "Carboidratos 5g",
+    "proteinas": "Proteínas 0g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Doce",
+      "Carboidrato",
+      "Processado",
+      "Tempero",
+      "Caloria Vazia"
+    ]
+  },
+  {
+    "nome": "Agrião",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 11kcal",
+    "carbo": "Carboidratos 1.3g",
+    "proteinas": "Proteínas 2g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Verdura",
+      "Nutriente Denso",
+      "Baixa Caloria",
+      "Sabor Picante"
+    ]
+  },
+  {
+    "nome": "Alface Crespa",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 15kcal",
+    "carbo": "Carboidratos 2.9g",
+    "proteinas": "Proteínas 1.4g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Verdura",
+      "Folhosa",
+      "Baixa Caloria",
+      "Salada"
+    ]
+  },
+  {
+    "nome": "Arroz Branco Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 128kcal",
+    "carbo": "Carboidratos 28.1g",
+    "proteinas": "Proteínas 2.5g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Cereal",
+      "Carboidrato",
+      "Fonte de Energia"
+    ]
+  },
+  {
+    "nome": "Arroz Integral Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 112kcal",
+    "carbo": "Carboidratos 23g",
+    "proteinas": "Proteínas 2.6g",
+    "gordura": "Gorduras Totais 0.9g",
+    "tags": [
+      "Grão Integral",
+      "Carboidrato Complexo",
+      "Fonte de Fibra"
+    ]
+  },
+  {
+    "nome": "Aspargos Cozidos",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 20kcal",
+    "carbo": "Carboidratos 3.9g",
+    "proteinas": "Proteínas 2.2g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Vegetal",
+      "Folato",
+      "Baixa Caloria",
+      "Saudável"
+    ]
+  },
+  {
+    "nome": "Atum em Óleo (drenado)",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 184kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 29g",
+    "gordura": "Gorduras Totais 8g",
+    "tags": [
+      "Peixe",
+      "Proteína",
+      "Ômega 3",
+      "Enlatado"
+    ]
+  },
+  {
+    "nome": "Aveia em Flocos",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 389kcal",
+    "carbo": "Carboidratos 66g",
+    "proteinas": "Proteínas 17g",
+    "gordura": "Gorduras Totais 7g",
+    "tags": [
+      "Cereal",
+      "Grão Integral",
+      "Fonte de Fibra",
+      "Café da Manhã"
+    ]
+  },
+  {
+    "nome": "Azeite de Oliva Extra Virgem",
+    "porcao": "Porção 13g (1 col. sopa)",
+    "energia": "Valor Energético 115kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 0g",
+    "gordura": "Gorduras Totais 13g",
+    "tags": [
+      "Óleo Vegetal",
+      "Gordura Saudável",
+      "Antioxidante",
+      "Tempero"
+    ]
+  },
+  {
+    "nome": "Banana Prata",
+    "porcao": "Porção 1 Unidade (90g)",
+    "energia": "Valor Energético 89kcal",
+    "carbo": "Carboidratos 23g",
+    "proteinas": "Proteínas 1g",
+    "gordura": "Gorduras Totais 0.3g",
+    "tags": [
+      "Fruta",
+      "Fonte de Potássio",
+      "Energia Rápida"
+    ]
+  },
+  {
+    "nome": "Bacon Frito",
+    "porcao": "Porção 50g",
+    "energia": "Valor Energético 270 kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 12g",
+    "gordura": "Gorduras Totais 24g",
+    "tags": [
+      "Carne Suína",
+      "Gordura Saturada",
+      "Embutido",
+      "Salgado",
+      "Processado"
+    ]
+  },
+  {
+    "nome": "Batata Baroa (Mandioquinha) Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 101kcal",
+    "carbo": "Carboidratos 24g",
+    "proteinas": "Proteínas 1g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Tubérculo",
+      "Carboidrato Complexo",
+      "Fonte de Energia"
+    ]
+  },
+  {
+    "nome": "Batata Doce Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 86kcal",
+    "carbo": "Carboidratos 20.1g",
+    "proteinas": "Proteínas 1.6g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Tubérculo",
+      "Carboidrato Complexo",
+      "Fonte de Energia"
+    ]
+  },
+  {
+    "nome": "Batata Frita",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 312 kcal",
+    "carbo": "Carboidratos 41g",
+    "proteinas": "Proteínas 3.5g",
+    "gordura": "Gorduras Totais 15g",
+    "tags": [
+      "Tubérculo",
+      "Fritura",
+      "Acompanhamento",
+      "Carboidrato",
+      "Não Saudável"
+    ]
+  },
+  {
+    "nome": "Batata Inglesa Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 87kcal",
+    "carbo": "Carboidratos 20.1g",
+    "proteinas": "Proteínas 1.9g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Tubérculo",
+      "Carboidrato",
+      "Fonte de Energia"
+    ]
+  },
+  {
+    "nome": "Batata Palha",
+    "porcao": "Porção 50g",
+    "energia": "Valor Energético 280 kcal",
+    "carbo": "Carboidratos 25g",
+    "proteinas": "Proteínas 2g",
+    "gordura": "Gorduras Totais 19g",
+    "tags": [
+      "Tubérculo",
+      "Fritura",
+      "Acompanhamento",
+      "Salgadinho"
+    ]
+  },
+  {
+    "nome": "Berinjela Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 25kcal",
+    "carbo": "Carboidratos 6g",
+    "proteinas": "Proteínas 1g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Legume",
+      "Vegetal",
+      "Baixa Caloria",
+      "Fonte de Fibra"
+    ]
+  },
+  {
+    "nome": "Beterraba Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 44kcal",
+    "carbo": "Carboidratos 10g",
+    "proteinas": "Proteínas 1.7g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Raiz",
+      "Vegetal",
+      "Fonte de Nitrato",
+      "Antioxidante"
+    ]
+  },
+  {
+    "nome": "Bife de Alcatra Grelhado",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 209kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 28g",
+    "gordura": "Gorduras Totais 10g",
+    "tags": [
+      "Carne Vermelha",
+      "Proteína",
+      "Fonte de Ferro"
+    ]
+  },
+  {
+    "nome": "Biscoito Maisena",
+    "porcao": "Porção 30g",
+    "energia": "Valor Energético 135 kcal",
+    "carbo": "Carboidratos 24g",
+    "proteinas": "Proteínas 2g",
+    "gordura": "Gorduras Totais 4g",
+    "tags": [
+      "Processado",
+      "Trigo",
+      "Carboidrato",
+      "Lanche"
+    ]
+  },
+  {
+    "nome": "Brócolis Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 35kcal",
+    "carbo": "Carboidratos 7.2g",
+    "proteinas": "Proteínas 2.4g",
+    "gordura": "Gorduras Totais 0.4g",
+    "tags": [
+      "Vegetal",
+      "Brassicácea",
+      "Fonte de Fibra",
+      "Vitamina C"
+    ]
+  },
+  {
+    "nome": "Café Coado (sem açúcar)",
+    "porcao": "Porção 100ml",
+    "energia": "Valor Energético 2kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 0.3g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Bebida",
+      "Estimulante",
+      "Baixa Caloria"
+    ]
+  },
+  {
+    "nome": "Café com Leite",
+    "porcao": "Porção 200ml",
+    "energia": "Valor Energético 90 kcal",
+    "carbo": "Carboidratos 8g",
+    "proteinas": "Proteínas 6g",
+    "gordura": "Gorduras Totais 4g",
+    "tags": [
+      "Bebida",
+      "Laticínio",
+      "Estimulante",
+      "Café da Manhã"
+    ]
+  },
+  {
+    "nome": "Castanha-do-Pará",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 656kcal",
+    "carbo": "Carboidratos 12g",
+    "proteinas": "Proteínas 14g",
+    "gordura": "Gorduras Totais 66g",
+    "tags": [
+      "Oleaginosa",
+      "Gordura Saudável",
+      "Fonte de Selênio",
+      "Snack"
+    ]
+  },
+  {
+    "nome": "Caju (Torrado sem Sal)",
+    "porcao": "Porção 20g",
+    "energia": "Valor Energético 110kcal",
+    "carbo": "Carboidratos 6g",
+    "proteinas": "Proteínas 3.6g",
+    "gordura": "Gorduras Totais 9g",
+    "tags": [
+      "Oleaginosa",
+      "Magnésio",
+      "Gordura Monoinsaturada",
+      "Snack"
+    ]
+  },
+  {
+    "nome": "Camarão Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 85kcal",
+    "carbo": "Carboidratos 0.9g",
+    "proteinas": "Proteínas 20g",
+    "gordura": "Gorduras Totais 0.5g",
+    "tags": [
+      "Frutos do Mar",
+      "Proteína Magra",
+      "Iodo",
+      "Baixa Caloria"
+    ]
+  },
+  {
+    "nome": "Carambola",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 31 kcal",
+    "carbo": "Carboidratos 7g",
+    "proteinas": "Proteínas 1g",
+    "gordura": "Gorduras Totais 0.3g",
+    "tags": [
+      "Fruta",
+      "Exótica",
+      "Baixa Caloria",
+      "Ácida"
+    ]
+  },
+  {
+    "nome": "Cenoura Crua",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 41kcal",
+    "carbo": "Carboidratos 10g",
+    "proteinas": "Proteínas 0.9g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Raiz",
+      "Vegetal",
+      "Betacaroteno",
+      "Vitamina A"
+    ]
+  },
+  {
+    "nome": "Carne Moída (Patinho) Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 215kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 26g",
+    "gordura": "Gorduras Totais 12g",
+    "tags": [
+      "Carne Vermelha",
+      "Proteína",
+      "Carne Magra"
+    ]
+  },
+  {
+    "nome": "Carne Seca Cozida e Desfiada",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 250 kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 45g",
+    "gordura": "Gorduras Totais 7g",
+    "tags": [
+      "Carne Bovina",
+      "Salgado",
+      "Proteína",
+      "Seca",
+      "Principal"
+    ]
+  },
+  {
+    "nome": "Cebola",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 40kcal",
+    "carbo": "Carboidratos 9g",
+    "proteinas": "Proteínas 1.1g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Vegetal",
+      "Tempero",
+      "Bulbo"
+    ]
+  },
+  {
+    "nome": "Cenoura Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 35 kcal",
+    "carbo": "Carboidratos 8g",
+    "proteinas": "Proteínas 0.8g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Vegetal",
+      "Raiz",
+      "Caroteno",
+      "Carboidrato"
+    ]
+  },
+  {
+    "nome": "Cereja",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 50kcal",
+    "carbo": "Carboidratos 12g",
+    "proteinas": "Proteínas 1g",
+    "gordura": "Gorduras Totais 0.3g",
+    "tags": [
+      "Fruta Vermelha",
+      "Antioxidante",
+      "Baixa Caloria",
+      "Anti-inflamatório"
+    ]
+  },
+  {
+    "nome": "Couve Manteiga Refogada",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 47kcal",
+    "carbo": "Carboidratos 4.3g",
+    "proteinas": "Proteínas 2.7g",
+    "gordura": "Gorduras Totais 2.2g",
+    "tags": [
+      "Verdura",
+      "Folhosa",
+      "Fonte de Ferro",
+      "Vitamina K"
+    ]
+  },
+  {
+    "nome": "Cevada em Grão Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 123 kcal",
+    "carbo": "Carboidratos 28g",
+    "proteinas": "Proteínas 3g",
+    "gordura": "Gorduras Totais 0.5g",
+    "tags": [
+      "Cereal",
+      "Grão",
+      "Fibra",
+      "Carboidrato"
+    ]
+  },
+  {
+    "nome": "Chá Mate",
+    "porcao": "Porção 200ml",
+    "energia": "Valor Energético 0 kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 0g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Bebida",
+      "Chá",
+      "Estimulante",
+      "Hidratação",
+      "Baixa Caloria"
+    ]
+  },
+  {
+    "nome": "Chocolate ao Leite",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 535kcal",
+    "carbo": "Carboidratos 59g",
+    "proteinas": "Proteínas 8g",
+    "gordura": "Gorduras Totais 30g",
+    "tags": [
+      "Doce",
+      "Sobremesa",
+      "Alta Caloria"
+    ]
+  },
+  {
+    "nome": "Cogumelo Paris Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 22kcal",
+    "carbo": "Carboidratos 3.3g",
+    "proteinas": "Proteínas 3g",
+    "gordura": "Gorduras Totais 0.3g",
+    "tags": [
+      "Fungo",
+      "Baixa Caloria",
+      "Fonte de Proteína",
+      "Umami"
+    ]
+  },
+  {
+    "nome": "Cordeiro Assado",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 271kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 25g",
+    "gordura": "Gorduras Totais 18g",
+    "tags": [
+      "Carne Exótica",
+      "Fonte de Ferro",
+      "Proteína"
+    ]
+  },
+  {
+    "nome": "Couve de Bruxelas Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 43 kcal",
+    "carbo": "Carboidratos 9g",
+    "proteinas": "Proteínas 3.4g",
+    "gordura": "Gorduras Totais 0.3g",
+    "tags": [
+      "Vegetal",
+      "Crucífera",
+      "Fibra",
+      "Baixa Caloria",
+      "Nutriente"
+    ]
+  },
+  {
+    "nome": "Couve-Flor Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 25kcal",
+    "carbo": "Carboidratos 5g",
+    "proteinas": "Proteínas 2g",
+    "gordura": "Gorduras Totais 0.3g",
+    "tags": [
+      "Vegetal",
+      "Baixa Caloria",
+      "Antioxidante",
+      "Brassicácea"
+    ]
+  },
+  {
+    "nome": "Creme de Leite UHT",
+    "porcao": "Porção 20g",
+    "energia": "Valor Energético 40 kcal",
+    "carbo": "Carboidratos 0.8g",
+    "proteinas": "Proteínas 0.5g",
+    "gordura": "Gorduras Totais 3.8g",
+    "tags": [
+      "Laticínio",
+      "Gordura",
+      "Culinária",
+      "Processado"
+    ]
+  },
+  {
+    "nome": "Feijão Carioca Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 76kcal",
+    "carbo": "Carboidratos 13.6g",
+    "proteinas": "Proteínas 4.8g",
+    "gordura": "Gorduras Totais 0.5g",
+    "tags": [
+      "Leguminosas",
+      "Proteína Vegetal",
+      "Fonte de Fibra",
+      "Fonte de Ferro"
+    ]
+  },
+  {
+    "nome": "Cuscuz de Milho Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 113kcal",
+    "carbo": "Carboidratos 25g",
+    "proteinas": "Proteínas 2.8g",
+    "gordura": "Gorduras Totais 0.4g",
+    "tags": [
+      "Cereal",
+      "Carboidrato",
+      "Regional"
+    ]
+  },
+  {
+    "nome": "Damasco Seco",
+    "porcao": "Porção 30g",
+    "energia": "Valor Energético 73kcal",
+    "carbo": "Carboidratos 19g",
+    "proteinas": "Proteínas 1g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Fruta Seca",
+      "Potássio",
+      "Lanche Energético"
+    ]
+  },
+  {
+    "nome": "Ervilha Fresca Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 81 kcal",
+    "carbo": "Carboidratos 14g",
+    "proteinas": "Proteínas 5g",
+    "gordura": "Gorduras Totais 0.4g",
+    "tags": [
+      "Leguminosa",
+      "Proteína Vegetal",
+      "Fibra",
+      "Verdura"
+    ]
+  },
+  {
+    "nome": "Espinafre Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 23kcal",
+    "carbo": "Carboidratos 3.6g",
+    "proteinas": "Proteínas 3g",
+    "gordura": "Gorduras Totais 0.4g",
+    "tags": [
+      "Verdura",
+      "Fonte de Ferro",
+      "Vitamina K",
+      "Detox"
+    ]
+  },
+  {
+    "nome": "Farinha de Trigo Refinada",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 364 kcal",
+    "carbo": "Carboidratos 76g",
+    "proteinas": "Proteínas 10g",
+    "gordura": "Gorduras Totais 1g",
+    "tags": [
+      "Grãos",
+      "Cereal",
+      "Carboidrato",
+      "Base Culinária",
+      "Trigo"
+    ]
+  },
+  {
+    "nome": "Feijão Preto Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 89kcal",
+    "carbo": "Carboidratos 16g",
+    "proteinas": "Proteínas 5g",
+    "gordura": "Gorduras Totais 0.5g",
+    "tags": [
+      "Leguminosas",
+      "Fonte de Ferro",
+      "Fibra Alimentar"
+    ]
+  },
+  {
+    "nome": "Figo Fresco",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 74 kcal",
+    "carbo": "Carboidratos 19g",
+    "proteinas": "Proteínas 0.7g",
+    "gordura": "Gorduras Totais 0.3g",
+    "tags": [
+      "Fruta",
+      "Fibra",
+      "Açúcar Natural",
+      "Doce"
+    ]
+  },
+  {
+    "nome": "Filé Mignon Grelhado",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 250kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 26g",
+    "gordura": "Gorduras Totais 16g",
+    "tags": [
+      "Carne Vermelha",
+      "Proteína",
+      "Alto Valor Biológico",
+      "Cortes Nobres"
+    ]
+  },
+  {
+    "nome": "Iogurte Natural Integral",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 61kcal",
+    "carbo": "Carboidratos 4.7g",
+    "proteinas": "Proteínas 3.5g",
+    "gordura": "Gorduras Totais 3.3g",
+    "tags": [
+      "Laticínio",
+      "Probiótico",
+      "Fonte de Cálcio",
+      "Proteína"
+    ]
+  },
+  {
+    "nome": "Geleia de Morango",
+    "porcao": "Porção 20g",
+    "energia": "Valor Energético 55 kcal",
+    "carbo": "Carboidratos 14g",
+    "proteinas": "Proteínas 0.1g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Fruta Processada",
+      "Açúcar",
+      "Pão",
+      "Doce",
+      "Processado"
+    ]
+  },
+  {
+    "nome": "Gengibre Raiz (Crua)",
+    "porcao": "Porção 10g",
+    "energia": "Valor Energético 8kcal",
+    "carbo": "Carboidratos 1.8g",
+    "proteinas": "Proteínas 0.2g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Tempero",
+      "Anti-inflamatório",
+      "Termogênico",
+      "Especiaria"
+    ]
+  },
+  {
+    "nome": "Goiaba Branca",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 68kcal",
+    "carbo": "Carboidratos 14g",
+    "proteinas": "Proteínas 2.6g",
+    "gordura": "Gorduras Totais 1g",
+    "tags": [
+      "Fruta",
+      "Vitamina C",
+      "Fibra",
+      "Tropical"
+    ]
+  },
+  {
+    "nome": "Grão-de-Bico Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 164kcal",
+    "carbo": "Carboidratos 27g",
+    "proteinas": "Proteínas 9g",
+    "gordura": "Gorduras Totais 3g",
+    "tags": [
+      "Leguminosas",
+      "Proteína Vegetal",
+      "Fibra",
+      "Vegano"
+    ]
+  },
+  {
+    "nome": "Hambúrguer Simples",
+    "porcao": "Porção 150g",
+    "energia": "Valor Energético 400 kcal",
+    "carbo": "Carboidratos 35g",
+    "proteinas": "Proteínas 20g",
+    "gordura": "Gorduras Totais 20g",
+    "tags": [
+      "Lanche",
+      "Processado",
+      "Carne Bovina",
+      "Fast Food",
+      "Não Saudável"
+    ]
+  },
+  {
+    "nome": "Iogurte Grego Light",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 70kcal",
+    "carbo": "Carboidratos 5g",
+    "proteinas": "Proteínas 8g",
+    "gordura": "Gorduras Totais 2g",
+    "tags": [
+      "Laticínio",
+      "Alto Teor Proteico",
+      "Baixa Gordura",
+      "Probiótico"
+    ]
+  },
+  {
+    "nome": "Jabuticaba",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 58 kcal",
+    "carbo": "Carboidratos 15g",
+    "proteinas": "Proteínas 0.6g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Fruta",
+      "Brasileira",
+      "Antioxidante",
+      "Pequena"
+    ]
+  },
+  {
+    "nome": "Laranja Pera",
+    "porcao": "Porção 1 Unidade (150g)",
+    "energia": "Valor Energético 70kcal",
+    "carbo": "Carboidratos 18g",
+    "proteinas": "Proteínas 1.4g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Fruta Cítrica",
+      "Vitamina C",
+      "Hidratante"
+    ]
+  },
+  {
+    "nome": "Kefir de Leite Integral",
+    "porcao": "Porção 100ml",
+    "energia": "Valor Energético 64kcal",
+    "carbo": "Carboidratos 4.5g",
+    "proteinas": "Proteínas 3.5g",
+    "gordura": "Gorduras Totais 3.5g",
+    "tags": [
+      "Probiótico",
+      "Fermentado",
+      "Saúde Intestinal",
+      "Laticínio"
+    ]
+  },
+  {
+    "nome": "Ketchup",
+    "porcao": "Porção 15g",
+    "energia": "Valor Energético 15 kcal",
+    "carbo": "Carboidratos 3.8g",
+    "proteinas": "Proteínas 0g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Tempero",
+      "Tomate",
+      "Açúcar Adicionado",
+      "Processado",
+      "Condimento"
+    ]
+  },
+  {
+    "nome": "Kiwi",
+    "porcao": "Porção 1 Unidade (75g)",
+    "energia": "Valor Energético 46kcal",
+    "carbo": "Carboidratos 11g",
+    "proteinas": "Proteínas 0.8g",
+    "gordura": "Gorduras Totais 0.4g",
+    "tags": [
+      "Fruta",
+      "Vitamina C",
+      "Digestivo",
+      "Antioxidante"
+    ]
+  },
+  {
+    "nome": "Leite Condensado",
+    "porcao": "Porção 30g",
+    "energia": "Valor Energético 100 kcal",
+    "carbo": "Carboidratos 18g",
+    "proteinas": "Proteínas 2g",
+    "gordura": "Gorduras Totais 2.8g",
+    "tags": [
+      "Laticínio",
+      "Açúcar",
+      "Sobremesa",
+      "Processado"
+    ]
+  },
+  {
+    "nome": "Leite Integral",
+    "porcao": "Porção 100ml",
+    "energia": "Valor Energético 61kcal",
+    "carbo": "Carboidratos 4.8g",
+    "proteinas": "Proteínas 3.2g",
+    "gordura": "Gorduras Totais 3.3g",
+    "tags": [
+      "Laticínio",
+      "Fonte de Cálcio",
+      "Proteína",
+      "Bebida"
+    ]
+  },
+  {
+    "nome": "Leite de Amêndoas (Sem Açúcar)",
+    "porcao": "Porção 200ml",
+    "energia": "Valor Energético 30kcal",
+    "carbo": "Carboidratos 1g",
+    "proteinas": "Proteínas 1g",
+    "gordura": "Gorduras Totais 2.5g",
+    "tags": [
+      "Bebida Vegetal",
+      "Baixa Caloria",
+      "Alternativa Láctea",
+      "Vegano"
+    ]
+  },
+  {
+    "nome": "Lentilha Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 116kcal",
+    "carbo": "Carboidratos 20g",
+    "proteinas": "Proteínas 9g",
+    "gordura": "Gorduras Totais 0.4g",
+    "tags": [
+      "Leguminosas",
+      "Proteína Vegetal",
+      "Fibra",
+      "Saúde Cardiovascular"
+    ]
+  },
+  {
+    "nome": "Macarrão Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 158kcal",
+    "carbo": "Carboidratos 31g",
+    "proteinas": "Proteínas 5.8g",
+    "gordura": "Gorduras Totais 0.9g",
+    "tags": [
+      "Massa",
+      "Carboidrato",
+      "Fonte de Energia"
+    ]
+  },
+  {
+    "nome": "Linguiça Calabresa Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 300 kcal",
+    "carbo": "Carboidratos 2g",
+    "proteinas": "Proteínas 15g",
+    "gordura": "Gorduras Totais 25g",
+    "tags": [
+      "Embutido",
+      "Carne Suína",
+      "Processado",
+      "Salgado",
+      "Jantar"
+    ]
+  },
+  {
+    "nome": "Linguiça Toscana Assada",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 323kcal",
+    "carbo": "Carboidratos 1.3g",
+    "proteinas": "Proteínas 15g",
+    "gordura": "Gorduras Totais 28g",
+    "tags": [
+      "Carne Processada",
+      "Embutido",
+      "Alta Gordura"
+    ]
+  },
+  {
+    "nome": "Maçã Fuji",
+    "porcao": "Porção 1 Unidade (150g)",
+    "energia": "Valor Energético 78kcal",
+    "carbo": "Carboidratos 21g",
+    "proteinas": "Proteínas 0.5g",
+    "gordura": "Gorduras Totais 0.3g",
+    "tags": [
+      "Fruta",
+      "Fonte de Fibra",
+      "Snack Saudável"
+    ]
+  },
+  {
+    "nome": "Lombo de Porco Assado",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 180 kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 30g",
+    "gordura": "Gorduras Totais 6g",
+    "tags": [
+      "Carne Suína",
+      "Proteína",
+      "Assado",
+      "Principal"
+    ]
+  },
+  {
+    "nome": "Maionese Industrializada",
+    "porcao": "Porção 15g",
+    "energia": "Valor Energético 105 kcal",
+    "carbo": "Carboidratos 0.5g",
+    "proteinas": "Proteínas 0.2g",
+    "gordura": "Gorduras Totais 11g",
+    "tags": [
+      "Gordura",
+      "Ovo",
+      "Condimento",
+      "Processado",
+      "Alta Caloria"
+    ]
+  },
+  {
+    "nome": "Mamão Formosa",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 45kcal",
+    "carbo": "Carboidratos 11.6g",
+    "proteinas": "Proteínas 0.5g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Fruta",
+      "Digestivo",
+      "Vitamina A",
+      "Tropical"
+    ]
+  },
+  {
+    "nome": "Mandioca Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 160kcal",
+    "carbo": "Carboidratos 38g",
+    "proteinas": "Proteínas 1.4g",
+    "gordura": "Gorduras Totais 0.3g",
+    "tags": [
+      "Tubérculo",
+      "Carboidrato Complexo",
+      "Fonte de Energia"
+    ]
+  },
+  {
+    "nome": "Manga Palmer",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 60kcal",
+    "carbo": "Carboidratos 15g",
+    "proteinas": "Proteínas 0.8g",
+    "gordura": "Gorduras Totais 0.4g",
+    "tags": [
+      "Fruta",
+      "Vitamina A",
+      "Fonte de Energia",
+      "Tropical"
+    ]
+  },
+  {
+    "nome": "Manga Tommy",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 60kcal",
+    "carbo": "Carboidratos 15g",
+    "proteinas": "Proteínas 0.8g",
+    "gordura": "Gorduras Totais 0.4g",
+    "tags": [
+      "Fruta",
+      "Vitamina A",
+      "Fonte de Energia",
+      "Tropical"
+    ]
+  },
+  {
+    "nome": "Manteiga com Sal",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 717kcal",
+    "carbo": "Carboidratos 0.1g",
+    "proteinas": "Proteínas 0.9g",
+    "gordura": "Gorduras Totais 81g",
+    "tags": [
+      "Laticínio",
+      "Gordura",
+      "Alta Caloria"
+    ]
+  },
+  {
+    "nome": "Ovo Cozido",
+    "porcao": "Porção 1 Unidade (50g)",
+    "energia": "Valor Energético 78kcal",
+    "carbo": "Carboidratos 0.6g",
+    "proteinas": "Proteínas 6.3g",
+    "gordura": "Gorduras Totais 5.3g",
+    "tags": [
+      "Proteína",
+      "Fonte de Vitamina B12",
+      "Alto Valor Biológico"
+    ]
+  },
+  {
+    "nome": "Maracujá (Polpa)",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 97kcal",
+    "carbo": "Carboidratos 23g",
+    "proteinas": "Proteínas 2.2g",
+    "gordura": "Gorduras Totais 0.7g",
+    "tags": [
+      "Fruta",
+      "Calmante",
+      "Antioxidante",
+      "Suco"
+    ]
+  },
+  {
+    "nome": "Mel",
+    "porcao": "Porção 20g",
+    "energia": "Valor Energético 64 kcal",
+    "carbo": "Carboidratos 16g",
+    "proteinas": "Proteínas 0.1g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Açúcar Natural",
+      "Doce",
+      "Energia",
+      "Apicultura"
+    ]
+  },
+  {
+    "nome": "Melancia",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 30kcal",
+    "carbo": "Carboidratos 8g",
+    "proteinas": "Proteínas 0.6g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Fruta",
+      "Hidratante",
+      "Baixa Caloria",
+      "Verão"
+    ]
+  },
+  {
+    "nome": "Milho de Pipoca (Estourado)",
+    "porcao": "Porção 30g",
+    "energia": "Valor Energético 110 kcal",
+    "carbo": "Carboidratos 20g",
+    "proteinas": "Proteínas 3g",
+    "gordura": "Gorduras Totais 1g",
+    "tags": [
+      "Cereal",
+      "Grão",
+      "Fibra",
+      "Lanche",
+      "Snack"
+    ]
+  },
+  {
+    "nome": "Milho Verde (Cozido)",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 96kcal",
+    "carbo": "Carboidratos 21g",
+    "proteinas": "Proteínas 3.4g",
+    "gordura": "Gorduras Totais 1.5g",
+    "tags": [
+      "Cereal",
+      "Fonte de Energia",
+      "Carboidrato",
+      "Verdura"
+    ]
+  },
+  {
+    "nome": "Morango",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 32kcal",
+    "carbo": "Carboidratos 8g",
+    "proteinas": "Proteínas 0.7g",
+    "gordura": "Gorduras Totais 0.3g",
+    "tags": [
+      "Fruta Vermelha",
+      "Antioxidante",
+      "Vitamina C",
+      "Baixa Caloria"
+    ]
+  },
+  {
+    "nome": "Mostarda",
+    "porcao": "Porção 15g",
+    "energia": "Valor Energético 10 kcal",
+    "carbo": "Carboidratos 1g",
+    "proteinas": "Proteínas 0.5g",
+    "gordura": "Gorduras Totais 0.5g",
+    "tags": [
+      "Tempero",
+      "Condimento",
+      "Baixa Caloria",
+      "Picante"
+    ]
+  },
+  {
+    "nome": "Pão Francês",
+    "porcao": "Porção 1 Unidade (50g)",
+    "energia": "Valor Energético 135kcal",
+    "carbo": "Carboidratos 28g",
+    "proteinas": "Proteínas 4.5g",
+    "gordura": "Gorduras Totais 1.6g",
+    "tags": [
+      "Pães",
+      "Carboidrato",
+      "Café da Manhã"
+    ]
+  },
+  {
+    "nome": "Nectarina",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 44 kcal",
+    "carbo": "Carboidratos 11g",
+    "proteinas": "Proteínas 1g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Fruta",
+      "Caroço",
+      "Doce",
+      "Verão",
+      "Vitaminas"
+    ]
+  },
+  {
+    "nome": "Nozes",
+    "porcao": "Porção 20g",
+    "energia": "Valor Energético 131kcal",
+    "carbo": "Carboidratos 2.8g",
+    "proteinas": "Proteínas 3g",
+    "gordura": "Gorduras Totais 13g",
+    "tags": [
+      "Oleaginosa",
+      "Ômega 3",
+      "Antioxidante",
+      "Saúde Cerebral"
+    ]
+  },
+  {
+    "nome": "Óleo de Coco",
+    "porcao": "Porção 13g (1 col. sopa)",
+    "energia": "Valor Energético 117kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 0g",
+    "gordura": "Gorduras Totais 13g",
+    "tags": [
+      "Óleo Vegetal",
+      "Gordura Saturada",
+      "Termogênico",
+      "Culinária"
+    ]
+  },
+  {
+    "nome": "Óleo de Soja",
+    "porcao": "Porção 13ml",
+    "energia": "Valor Energético 115 kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 0g",
+    "gordura": "Gorduras Totais 13g",
+    "tags": [
+      "Gordura",
+      "Cozinha",
+      "Óleo Vegetal",
+      "Refinado",
+      "Culinária"
+    ]
+  },
+  {
+    "nome": "Omelete de Queijo",
+    "porcao": "Porção 1 unidade (110g)",
+    "energia": "Valor Energético 210 kcal",
+    "carbo": "Carboidratos 1.5g",
+    "proteinas": "Proteínas 15g",
+    "gordura": "Gorduras Totais 16g",
+    "tags": [
+      "Proteína",
+      "Ovo",
+      "Laticínio",
+      "Café da Manhã",
+      "Rápido"
+    ]
+  },
+  {
+    "nome": "Ostra (Crua)",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 68kcal",
+    "carbo": "Carboidratos 4g",
+    "proteinas": "Proteínas 7g",
+    "gordura": "Gorduras Totais 1g",
+    "tags": [
+      "Frutos do Mar",
+      "Fonte de Zinco",
+      "Baixa Caloria"
+    ]
+  },
+  {
+    "nome": "Ovo de Codorna Cozido",
+    "porcao": "Porção 5 Unidades (45g)",
+    "energia": "Valor Energético 70kcal",
+    "carbo": "Carboidratos 0.2g",
+    "proteinas": "Proteínas 6g",
+    "gordura": "Gorduras Totais 5g",
+    "tags": [
+      "Ovos",
+      "Proteína",
+      "Porção Controlada"
+    ]
+  },
+  {
+    "nome": "Ovo de Pato Cozido",
+    "porcao": "Porção 70g",
+    "energia": "Valor Energético 130 kcal",
+    "carbo": "Carboidratos 0.5g",
+    "proteinas": "Proteínas 9g",
+    "gordura": "Gorduras Totais 10g",
+    "tags": [
+      "Proteína",
+      "Ovo",
+      "Gordura",
+      "Culinária Exótica"
+    ]
+  },
+  {
+    "nome": "Ovo Frito",
+    "porcao": "Porção 1 unidade (50g)",
+    "energia": "Valor Energético 90 kcal",
+    "carbo": "Carboidratos 0.4g",
+    "proteinas": "Proteínas 6g",
+    "gordura": "Gorduras Totais 7g",
+    "tags": [
+      "Proteína",
+      "Ovo",
+      "Gordura",
+      "Café da Manhã"
+    ]
+  },
+  {
+    "nome": "Peito de Frango Grelhado",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 165kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 31g",
+    "gordura": "Gorduras Totais 3.6g",
+    "tags": [
+      "Carne Branca",
+      "Proteína Magra",
+      "Baixa Gordura"
+    ]
+  },
+  {
+    "nome": "Pão de Queijo",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 337kcal",
+    "carbo": "Carboidratos 40g",
+    "proteinas": "Proteínas 6.6g",
+    "gordura": "Gorduras Totais 17g",
+    "tags": [
+      "Lanche",
+      "Carboidrato",
+      "Regional"
+    ]
+  },
+  {
+    "nome": "Pão Integral de Trigo",
+    "porcao": "Porção 50g",
+    "energia": "Valor Energético 130 kcal",
+    "carbo": "Carboidratos 22g",
+    "proteinas": "Proteínas 5g",
+    "gordura": "Gorduras Totais 2g",
+    "tags": [
+      "Grãos",
+      "Carboidrato",
+      "Fibra",
+      "Cereal",
+      "Café da Manhã"
+    ]
+  },
+  {
+    "nome": "Pão Sírio",
+    "porcao": "Porção 50g",
+    "energia": "Valor Energético 140 kcal",
+    "carbo": "Carboidratos 28g",
+    "proteinas": "Proteínas 4g",
+    "gordura": "Gorduras Totais 1g",
+    "tags": [
+      "Pão",
+      "Trigo",
+      "Cereal",
+      "Carboidrato"
+    ]
+  },
+  {
+    "nome": "Peito de Peru Defumado (Fatias)",
+    "porcao": "Porção 50g",
+    "energia": "Valor Energético 50kcal",
+    "carbo": "Carboidratos 1g",
+    "proteinas": "Proteínas 9g",
+    "gordura": "Gorduras Totais 1g",
+    "tags": [
+      "Embutido Magro",
+      "Proteína",
+      "Lanche Rápido",
+      "Baixa Gordura"
+    ]
+  },
+  {
+    "nome": "Pepino",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 15kcal",
+    "carbo": "Carboidratos 3.6g",
+    "proteinas": "Proteínas 0.7g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Vegetal",
+      "Hidratante",
+      "Baixa Caloria",
+      "Salada"
+    ]
+  },
+  {
+    "nome": "Pêra Asiática (Nashi)",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 57kcal",
+    "carbo": "Carboidratos 15g",
+    "proteinas": "Proteínas 0.4g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Fruta",
+      "Fibra",
+      "Hidratante",
+      "Baixa Caloria"
+    ]
+  },
+  {
+    "nome": "Peixe Espada Grelhado",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 150 kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 25g",
+    "gordura": "Gorduras Totais 5g",
+    "tags": [
+      "Pescado",
+      "Proteína",
+      "Ômega 3",
+      "Mar",
+      "Principal"
+    ]
+  },
+  {
+    "nome": "Queijo Minas Frescal",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 264kcal",
+    "carbo": "Carboidratos 1.5g",
+    "proteinas": "Proteínas 17g",
+    "gordura": "Gorduras Totais 20g",
+    "tags": [
+      "Laticínio",
+      "Queijo Branco",
+      "Proteína",
+      "Fonte de Cálcio"
+    ]
+  },
+  {
+    "nome": "Picanha Grelhada",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 280kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 24g",
+    "gordura": "Gorduras Totais 20g",
+    "tags": [
+      "Carne Vermelha",
+      "Cortes Nobres",
+      "Churrasco",
+      "Proteína"
+    ]
+  },
+  {
+    "nome": "Pimenta do Reino (Moída)",
+    "porcao": "Porção 5g (1 col. chá)",
+    "energia": "Valor Energético 12kcal",
+    "carbo": "Carboidratos 3g",
+    "proteinas": "Proteínas 0.5g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Tempero",
+      "Especiaria",
+      "Sabor Intenso",
+      "Digestivo"
+    ]
+  },
+  {
+    "nome": "Pimenta Malagueta",
+    "porcao": "Porção 5g",
+    "energia": "Valor Energético 2 kcal",
+    "carbo": "Carboidratos 0.4g",
+    "proteinas": "Proteínas 0.1g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Tempero",
+      "Picante",
+      "Baixa Caloria",
+      "Vegetal"
+    ]
+  },
+  {
+    "nome": "Pimentão Verde",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 20kcal",
+    "carbo": "Carboidratos 4.6g",
+    "proteinas": "Proteínas 0.9g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Vegetal",
+      "Baixa Caloria",
+      "Vitamina C"
+    ]
+  },
+  {
+    "nome": "Pimentão Vermelho Cru",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 31kcal",
+    "carbo": "Carboidratos 6g",
+    "proteinas": "Proteínas 1g",
+    "gordura": "Gorduras Totais 0.3g",
+    "tags": [
+      "Vegetal",
+      "Vitamina C",
+      "Baixa Caloria",
+      "Antioxidante"
+    ]
+  },
+  {
+    "nome": "Pistache",
+    "porcao": "Porção 20g",
+    "energia": "Valor Energético 113kcal",
+    "carbo": "Carboidratos 5.7g",
+    "proteinas": "Proteínas 4g",
+    "gordura": "Gorduras Totais 9g",
+    "tags": [
+      "Oleaginosa",
+      "Antioxidante",
+      "Proteína",
+      "Lanche"
+    ]
+  },
+  {
+    "nome": "Pizza Muçarela",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 266 kcal",
+    "carbo": "Carboidratos 29g",
+    "proteinas": "Proteínas 12g",
+    "gordura": "Gorduras Totais 11g",
+    "tags": [
+      "Laticínios",
+      "Carboidrato",
+      "Processado",
+      "Trigo",
+      "Jantar"
+    ]
+  },
+  {
+    "nome": "Salmão Grelhado",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 208kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 20g",
+    "gordura": "Gorduras Totais 13g",
+    "tags": [
+      "Peixe",
+      "Ômega 3",
+      "Proteína",
+      "Gordura Saudável"
+    ]
+  },
+  {
+    "nome": "Polenta Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 85 kcal",
+    "carbo": "Carboidratos 18g",
+    "proteinas": "Proteínas 2g",
+    "gordura": "Gorduras Totais 0.5g",
+    "tags": [
+      "Cereal",
+      "Milho",
+      "Carboidrato",
+      "Culinária Italiana"
+    ]
+  },
+  {
+    "nome": "Presunto Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 145 kcal",
+    "carbo": "Carboidratos 1g",
+    "proteinas": "Proteínas 20g",
+    "gordura": "Gorduras Totais 7g",
+    "tags": [
+      "Embutido",
+      "Carne Suína",
+      "Processado",
+      "Sanduíche",
+      "Salgado"
+    ]
+  },
+  {
+    "nome": "Queijo Cottage Light",
+    "porcao": "Porção 50g",
+    "energia": "Valor Energético 40kcal",
+    "carbo": "Carboidratos 1.5g",
+    "proteinas": "Proteínas 6g",
+    "gordura": "Gorduras Totais 1g",
+    "tags": [
+      "Laticínio Magro",
+      "Proteína",
+      "Baixa Gordura",
+      "Queijo Branco"
+    ]
+  },
+  {
+    "nome": "Queijo Muçarela",
+    "porcao": "Porção 30g",
+    "energia": "Valor Energético 90 kcal",
+    "carbo": "Carboidratos 0.5g",
+    "proteinas": "Proteínas 7g",
+    "gordura": "Gorduras Totais 6.5g",
+    "tags": [
+      "Laticínio",
+      "Queijo",
+      "Gordura Saturada",
+      "Culinária",
+      "Pizza"
+    ]
+  },
+  {
+    "nome": "Quiabo Cozido",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 33kcal",
+    "carbo": "Carboidratos 7g",
+    "proteinas": "Proteínas 2g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Legume",
+      "Fibra",
+      "Digestivo",
+      "Baixa Caloria"
+    ]
+  },
+  {
+    "nome": "Quiabo Cru",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 33 kcal",
+    "carbo": "Carboidratos 7g",
+    "proteinas": "Proteínas 2g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Vegetal",
+      "Fibra",
+      "Baixa Caloria",
+      "Nutriente"
+    ]
+  },
+  {
+    "nome": "Quinoa Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 120kcal",
+    "carbo": "Carboidratos 21g",
+    "proteinas": "Proteínas 4g",
+    "gordura": "Gorduras Totais 2g",
+    "tags": [
+      "Grão Integral",
+      "Cereal",
+      "Fonte de Fibra",
+      "Alto Valor Nutricional"
+    ]
+  },
+  {
+    "nome": "Tomate",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 18kcal",
+    "carbo": "Carboidratos 3.9g",
+    "proteinas": "Proteínas 0.9g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Fruto",
+      "Vegetal",
+      "Licopeno",
+      "Salada"
+    ]
+  },
+  {
+    "nome": "Requeijão Cremoso",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 257kcal",
+    "carbo": "Carboidratos 3.8g",
+    "proteinas": "Proteínas 9.5g",
+    "gordura": "Gorduras Totais 22g",
+    "tags": [
+      "Laticínio",
+      "Cremoso",
+      "Proteína"
+    ]
+  },
+  {
+    "nome": "Sal de Cozinha",
+    "porcao": "Porção 1g",
+    "energia": "Valor Energético 0 kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 0g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Tempero",
+      "Salgado",
+      "Sódio",
+      "Condimento",
+      "Mineral"
+    ]
+  },
+  {
+    "nome": "Salmão Defumado",
+    "porcao": "Porção 50g",
+    "energia": "Valor Energético 96kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 10.5g",
+    "gordura": "Gorduras Totais 5.8g",
+    "tags": [
+      "Peixe",
+      "Ômega 3",
+      "Proteína",
+      "Gordura Saudável"
+    ]
+  },
+  {
+    "nome": "Sardinha em Conserva (drenada)",
+    "porcao": "Porção 50g",
+    "energia": "Valor Energético 105kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 12g",
+    "gordura": "Gorduras Totais 6.5g",
+    "tags": [
+      "Peixe",
+      "Ômega 3",
+      "Fonte de Cálcio",
+      "Proteína"
+    ]
+  },
+  {
+    "nome": "Semente de Chia",
+    "porcao": "Porção 15g",
+    "energia": "Valor Energético 72kcal",
+    "carbo": "Carboidratos 6g",
+    "proteinas": "Proteínas 2.5g",
+    "gordura": "Gorduras Totais 4.5g",
+    "tags": [
+      "Semente",
+      "Superalimento",
+      "Fibra Solúvel",
+      "Ômega 3"
+    ]
+  },
+  {
+    "nome": "Semente de Girassol (Torrada)",
+    "porcao": "Porção 20g",
+    "energia": "Valor Energético 118kcal",
+    "carbo": "Carboidratos 4g",
+    "proteinas": "Proteínas 4.5g",
+    "gordura": "Gorduras Totais 10g",
+    "tags": [
+      "Semente",
+      "Magnésio",
+      "Gordura Saudável",
+      "Vitamina E"
+    ]
+  },
+  {
+    "nome": "Romã (Sementes)",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 83kcal",
+    "carbo": "Carboidratos 19g",
+    "proteinas": "Proteínas 1.7g",
+    "gordura": "Gorduras Totais 1.2g",
+    "tags": [
+      "Fruta",
+      "Antioxidante",
+      "Polifenóis",
+      "Saúde Cardiovascular"
+    ]
+  },
+  {
+    "nome": "Rabanete Cru",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 16 kcal",
+    "carbo": "Carboidratos 3.4g",
+    "proteinas": "Proteínas 0.7g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Vegetal",
+      "Raiz",
+      "Baixa Caloria",
+      "Picante",
+      "Salada"
+    ]
+  },
+  {
+    "nome": "Tangerina Ponkan",
+    "porcao": "Porção 1 Unidade (130g)",
+    "energia": "Valor Energético 69kcal",
+    "carbo": "Carboidratos 17g",
+    "proteinas": "Proteínas 1g",
+    "gordura": "Gorduras Totais 0.4g",
+    "tags": [
+      "Fruta Cítrica",
+      "Vitamina C",
+      "Hidratante"
+    ]
+  },
+  {
+    "nome": "Tofu (Firme)",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 76kcal",
+    "carbo": "Carboidratos 1.9g",
+    "proteinas": "Proteínas 8g",
+    "gordura": "Gorduras Totais 4.8g",
+    "tags": [
+      "Proteína Vegetal",
+      "Soja",
+      "Vegano",
+      "Baixo Carboidrato"
+    ]
+  },
+  {
+    "nome": "Rapadura",
+    "porcao": "Porção 30g",
+    "energia": "Valor Energético 115 kcal",
+    "carbo": "Carboidratos 30g",
+    "proteinas": "Proteínas 0.1g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Açúcar",
+      "Cana",
+      "Doce",
+      "Nordestino",
+      "Energia"
+    ]
+  },
+  {
+    "nome": "Refrigerante Coca-Cola",
+    "porcao": "Porção 350ml",
+    "energia": "Valor Energético 140 kcal",
+    "carbo": "Carboidratos 35g",
+    "proteinas": "Proteínas 0g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Bebida Açucarada",
+      "Processado",
+      "Açúcar",
+      "Não Saudável",
+      "Refresco"
+    ]
+  },
+  {
+    "nome": "Rúcula Crua",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 25 kcal",
+    "carbo": "Carboidratos 3.7g",
+    "proteinas": "Proteínas 2.5g",
+    "gordura": "Gorduras Totais 0.7g",
+    "tags": [
+      "Vegetal",
+      "Folhosa",
+      "Verdura",
+      "Salada",
+      "Baixa Caloria"
+    ]
+  },
+  {
+    "nome": "Ricota",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 174kcal",
+    "carbo": "Carboidratos 3g",
+    "proteinas": "Proteínas 11g",
+    "gordura": "Gorduras Totais 13g",
+    "tags": [
+      "Laticínio",
+      "Queijo Branco",
+      "Proteína",
+      "Baixo Carboidrato"
+    ]
+  },
+  {
+    "nome": "Shoyu (Molho de Soja)",
+    "porcao": "Porção 15ml",
+    "energia": "Valor Energético 8 kcal",
+    "carbo": "Carboidratos 1g",
+    "proteinas": "Proteínas 1g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Tempero",
+      "Salgado",
+      "Umami",
+      "Fermentado",
+      "Condimento"
+    ]
+  },
+  {
+    "nome": "Sorvete de Creme",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 207 kcal",
+    "carbo": "Carboidratos 21g",
+    "proteinas": "Proteínas 4g",
+    "gordura": "Gorduras Totais 12g",
+    "tags": [
+      "Sobremesa",
+      "Laticínio",
+      "Açúcar",
+      "Gordura",
+      "Doce"
+    ]
+  },
+  {
+    "nome": "Tamarindo (Polpa)",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 239 kcal",
+    "carbo": "Carboidratos 62g",
+    "proteinas": "Proteínas 2.8g",
+    "gordura": "Gorduras Totais 0.6g",
+    "tags": [
+      "Fruta",
+      "Ácido",
+      "Fibra",
+      "Polpa",
+      "Exótica"
+    ]
+  },
+  {
+    "nome": "Suco de Laranja Natural",
+    "porcao": "Porção 100ml",
+    "energia": "Valor Energético 45kcal",
+    "carbo": "Carboidratos 10g",
+    "proteinas": "Proteínas 0.7g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Bebida",
+      "Suco de Fruta",
+      "Vitamina C"
+    ]
+  },
+  {
+    "nome": "Tapioca (Goma)",
+    "porcao": "Porção 50g",
+    "energia": "Valor Energético 140 kcal",
+    "carbo": "Carboidratos 35g",
+    "proteinas": "Proteínas 0.2g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Amido",
+      "Carboidrato",
+      "Raiz",
+      "Café da Manhã"
+    ]
+  },
+  {
+    "nome": "Tilápia Grelhada",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 128kcal",
+    "carbo": "Carboidratos 0g",
+    "proteinas": "Proteínas 26g",
+    "gordura": "Gorduras Totais 2.7g",
+    "tags": [
+      "Peixe",
+      "Proteína Magra",
+      "Baixa Gordura"
+    ]
+  },
+  {
+    "nome": "Uva Thompson",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 69kcal",
+    "carbo": "Carboidratos 18g",
+    "proteinas": "Proteínas 0.7g",
+    "gordura": "Gorduras Totais 0.2g",
+    "tags": [
+      "Fruta",
+      "Antioxidante",
+      "Energia Rápida"
+    ]
+  },
+  {
+    "nome": "Vagem Cozida",
+    "porcao": "Porção 100g",
+    "energia": "Valor Energético 31 kcal",
+    "carbo": "Carboidratos 7g",
+    "proteinas": "Proteínas 1.8g",
+    "gordura": "Gorduras Totais 0.1g",
+    "tags": [
+      "Leguminosa",
+      "Vegetal",
+      "Fibra",
+      "Baixa Caloria"
+    ]
+  },
+  {
+    "nome": "Vinagre Balsâmico",
+    "porcao": "Porção 15ml (1 col. sopa)",
+    "energia": "Valor Energético 14kcal",
+    "carbo": "Carboidratos 3g",
+    "proteinas": "Proteínas 0.1g",
+    "gordura": "Gorduras Totais 0g",
+    "tags": [
+      "Condimento",
+      "Tempero",
+      "Baixa Caloria",
+      "Molho"
+    ]
+  },
+  {
+    "nome": "Whey Protein Isolado",
+    "porcao": "Porção 30g",
+    "energia": "Valor Energético 110 kcal",
+    "carbo": "Carboidratos 1g",
+    "proteinas": "Proteínas 27g",
+    "gordura": "Gorduras Totais 0.5g",
+    "tags": [
+      "Suplemento",
+      "Proteína",
+      "Laticínio",
+      "Fitness",
+      "Musculação"
+    ]
+  }
+]
