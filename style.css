@@ -1,24 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap'); /* Importa a fonte Quicksand do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap'); /* Importa a fonte "Quicksand" do Google Fonts. */
 
 * {
-    box-sizing: border-box; /* Garante que padding e border não aumentem o tamanho total do elemento */
+    box-sizing: border-box; /* Garante que padding e border não aumentem o tamanho total dos elementos. */
 }
 
 :root {
-    --primary-color: #d2f88a; /* Cor primária (azul claro) */
-    --secondary-color: #f1f50e; /* Cor secundária (cinza claro) */
-    --tertiary-color: #b1d31b; /* Cor terciária (cinza médio) */
-    --bg-color: #03021d; /* Cor de fundo (cinza escuro) */
+    --primary-color: #c24d49; /* Cor primária para elementos de destaque. */
+    --secondary-color: #eeeee8; /* Cor secundária, usada para o texto principal. */
+    --tertiary-color: #c24d49; /* Cor terciária, para bordas e placeholders. */
+    --bg-color: #000000; /* Cor de fundo principal da aplicação. */
     
 }
 
 body {
     margin: 0; /* Remove a margem padrão do body */
-    background-image: url('header.jpg'); /* Define a imagem de fundo */
-    background-size: cover; /* Ajusta a imagem para cobrir toda a tela */
-    background-position: center; /* Centraliza a imagem */
-    background-repeat: no-repeat; /* Evita que a imagem se repita */
-    background-attachment: fixed; /* Mantém a imagem de fundo fixa ao rolar */
+    background-color: var(--bg-color); /* Define a cor de fundo */
     color: var(--secondary-color); /* Define a cor do texto padrão usando uma variável */
     font-family: "Quicksand", sans-serif; /* Define a família da fonte */
     display: flex; /* Habilita o layout flexbox */
@@ -27,98 +23,98 @@ body {
 }
 
 header {
-    display: flex; /* Habilita o layout flexbox */
-    align-items: center; /* Alinha os itens verticalmente ao centro */
-    justify-content: space-around; /* Distribui os itens com espaço ao redor */
-    position: sticky; /* Mantém o cabeçalho fixo no topo ao rolar a página */
-    top: 0; /* Posição do topo quando sticky */
-    z-index: 10; /* Define a ordem de empilhamento para ficar sobre outros elementos */
-    gap: 1rem; /* Espaçamento entre os elementos flex */
-    background-color: rgba(3, 2, 29, 0.7); /* Fundo semitransparente para destacar o conteúdo */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Adiciona uma sombra ao texto para facilitar a leitura */
-    padding: 40px 0; /* Adiciona um pouco de preenchimento para o conteúdo não ficar colado nas bordas */
-    text-align: center; /* Centraliza o conteúdo do header */
+    display: flex; /* Habilita o layout flexbox. */
+    align-items: center; /* Alinha os itens verticalmente ao centro. */
+    justify-content: space-around; /* Distribui os itens com espaço ao redor. */
+    position: sticky; /* Mantém o cabeçalho fixo no topo ao rolar a página. */
+    top: 0; /* Define a posição no topo para o 'sticky'. */
+    z-index: 10; /* Garante que o cabeçalho fique sobre outros elementos. */
+    gap: 1rem; /* Define um espaçamento entre os elementos do cabeçalho. */
+    background-color: rgba(3, 2, 29, 0.7); /* Fundo semitransparente para um efeito de profundidade. */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Adiciona sombra ao texto para melhor legibilidade. */
+    padding: 40px 0; /* Espaçamento interno vertical. */
+    text-align: center; /* Centraliza o texto do cabeçalho. */
 }
 
 header h1 {
-    font-size: 1.5rem; /* Tamanho da fonte */
-    margin: 0; /* Remove a margem padrão */
-    font-weight: 500; /* Peso da fonte (médio) */
-    white-space: nowrap; /* Impede a quebra de linha do texto */
+    font-size: 1.5rem; /* Define o tamanho da fonte do título. */
+    margin: 0; /* Remove a margem padrão. */
+    font-weight: 500; /* Define o peso da fonte como médio. */
+    white-space: nowrap; /* Impede a quebra de linha do título. */
 }
 
 div input {
-    padding: 0.375rem 0.75rem; /* Espaçamento interno */
-    border-radius: 1rem; /* Arredonda as bordas */
-    border: 1px solid var(--tertiary-color); /* Define a borda */
-    background: var(--bg-color); /* Cor de fundo */
-    font-family: inherit; /* Herda a família da fonte do elemento pai */
-    font-size: 1.5rem; /* Tamanho da fonte */
-    transition: all 0.2s ease; /* Adiciona uma transição suave para todas as propriedades */
-    width: 30rem; /* Largura do input */
-    color: var(--secondary-color); /* Cor do texto digitado */
-    margin-right: .5rem; /* Margem à direita */
+    padding: 0.375rem 0.75rem; /* Espaçamento interno do campo de busca. */
+    border-radius: 1rem; /* Arredonda as bordas. */
+    border: 1px solid var(--tertiary-color); /* Define a cor da borda. */
+    background: var(--bg-color); /* Define a cor de fundo. */
+    font-family: inherit; /* Herda a família da fonte do elemento pai. */
+    font-size: 1.5rem; /* Define o tamanho da fonte. */
+    transition: all 0.2s ease; /* Adiciona uma transição suave para todas as propriedades. */
+    width: 30rem; /* Define a largura do campo. */
+    color: var(--secondary-color); /* Define a cor do texto digitado. */
+    margin-right: .5rem; /* Adiciona uma margem à direita. */
 }
 
 div input::placeholder {
-    font-size: 1.2rem; /* Tamanho da fonte do placeholder */
-    font-weight: 300; /* Peso da fonte do placeholder */
-    color: var(--tertiary-color); /* Cor do texto do placeholder */
+    font-size: 1.2rem; /* Tamanho da fonte do texto do placeholder. */
+    font-weight: 300; /* Peso da fonte do placeholder. */
+    color: var(--tertiary-color); /* Cor do texto do placeholder. */
 }
 
 div input:focus {
-    outline: none; /* Remove a borda de foco padrão */
-    border-color: var(--bg-color); /* Muda a cor da borda ao focar */
-    box-shadow: 0 0 0 0.1rem var(--tertiary-color); /* Adiciona uma sombra de caixa para indicar foco */
+    outline: none; /* Remove a borda de foco padrão do navegador. */
+    border-color: var(--bg-color); /* Muda a cor da borda ao focar. */
+    box-shadow: 0 0 0 0.1rem var(--tertiary-color); /* Adiciona uma sombra para indicar foco. */
 }
 
 #botao-busca {
-    padding: 1rem 2rem; /* Espaçamento interno */
-    border-radius: 1rem; /* Arredonda as bordas */
-    border: none; /* Remove a borda padrão */
-    cursor: pointer; /* Muda o cursor para uma mão ao passar por cima */
-    font-family: inherit; /* Herda a família da fonte */
-    font-weight: 500; /* Peso da fonte */
-    font-size: 1rem; /* Tamanho da fonte */
-    white-space: nowrap; /* Impede a quebra de linha do texto */
-    transition: background-color 0.2s ease, color 0.2s ease; /* Transição suave para cor de fundo e cor do texto */
-    background-color: var(--bg-color); /* Cor de fundo */
-    color: var(--secondary-color); /* Cor do texto */
-    border: 1px solid var(--bg-color); /* Adiciona uma borda */
+    padding: 1rem 2rem; /* Espaçamento interno do botão. */
+    border-radius: 1rem; /* Arredonda as bordas. */
+    border: none; /* Remove a borda padrão. */
+    cursor: pointer; /* Muda o cursor para indicar que é clicável. */
+    font-family: inherit; /* Herda a família da fonte. */
+    font-weight: 500; /* Define o peso da fonte. */
+    font-size: 1rem; /* Define o tamanho da fonte. */
+    white-space: nowrap; /* Impede a quebra de linha do texto. */
+    transition: background-color 0.2s ease, color 0.2s ease; /* Adiciona transição suave para interações. */
+    background-color: var(--bg-color); /* Define a cor de fundo. */
+    color: var(--secondary-color); /* Define a cor do texto. */
+    border: 1px solid var(--bg-color); /* Adiciona uma borda sutil. */
 }
 
 #botao-busca:hover {
-    background-color: var(--primary-color); /* Muda a cor de fundo ao passar o mouse */
-    color: var(--bg-color); /* Muda a cor do texto ao passar o mouse */
-    box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra de caixa */
+    background-color: var(--primary-color); /* Muda a cor de fundo no hover. */
+    color: var(--bg-color); /* Muda a cor do texto no hover. */
+    box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra para destaque. */
 }
 
 #botao-busca:active {
-    transform: scale(0.98); /* Efeito de clique (diminui o tamanho) */
+    transform: scale(0.98); /* Efeito de clique que diminui o tamanho do botão. */
 }
 
 main {
-    display: flex; /* Mudei para flex para acomodar a nova coluna */
-    gap: 1.5rem; /* Espaçamento entre os cards */
-    max-width: 80rem; /* Largura máxima do conteúdo principal */
-    margin: 0 auto; /* Centraliza o conteúdo principal horizontalmente */
-    margin-top: 2rem; /* Margem no topo */
-    padding: 0 1rem; /* Adiciona um preenchimento lateral para não colar nas bordas da tela */
-    flex-grow: 1; /* Faz o conteúdo principal crescer para ocupar o espaço disponível */
-    align-items: flex-start; /* Alinha os itens no topo */
+    display: flex; /* Usa flexbox para o layout principal de duas colunas. */
+    gap: 1.5rem; /* Espaçamento entre a lista de cards e a área de seleção. */
+    max-width: 80rem; /* Largura máxima do conteúdo principal. */
+    margin: 0 auto; /* Centraliza o conteúdo principal na página. */
+    margin-top: 2rem; /* Adiciona margem no topo. */
+    padding: 0 1rem; /* Adiciona espaçamento lateral para evitar que o conteúdo toque as bordas. */
+    flex-grow: 1; /* Permite que o 'main' cresça e ocupe o espaço disponível. */
+    align-items: flex-start; /* Alinha os itens no topo. */
 }
 
 .card-container {
-    flex: 3; /* Faz o container de cards ocupar 3/4 do espaço */
+    flex: 3; /* Faz o container de cards ocupar 3/4 do espaço disponível. */
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
 }
 
 #drop-zone {
-    flex: 1; /* Faz a zona de drop ocupar 1/4 do espaço */
-    max-height: 70vh; /* Define uma altura máxima para a área */
-    overflow-y: auto; /* Adiciona uma barra de rolagem vertical quando necessário */
+    flex: 1; /* Faz a zona de drop ocupar 1/4 do espaço. */
+    max-height: 70vh; /* Define uma altura máxima para a área. */
+    overflow-y: auto; /* Adiciona uma barra de rolagem vertical quando o conteúdo transborda. */
     border: 2px dashed var(--tertiary-color);
     border-radius: 1rem;
     padding: 1.5rem;
@@ -126,8 +122,8 @@ main {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-    position: sticky; /* Mantém a área de seleção visível */
-    top: 140px; /* Ajuste conforme a altura do seu header */
+    position: sticky; /* Mantém a área de seleção visível durante a rolagem. */
+    top: 140px; /* Posição a partir do topo, ajustada conforme a altura do header. */
 }
 
 #drop-zone.drag-over {
@@ -136,22 +132,22 @@ main {
 }
 
 article {
-    background: #080724; /* Um fundo um pouco mais claro para destacar o card */
-    border-radius: 1rem; /* Bordas arredondadas para o estilo de card */
-    padding: 1.5rem; /* Espaçamento interno */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra sutil */
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Transição suave */
-    border: 1px solid var(--tertiary-color); /* Borda sutil */
+    background: #080724; /* Fundo do card, ligeiramente mais claro que o fundo principal. */
+    border-radius: 1rem; /* Bordas arredondadas para o estilo de card. */
+    padding: 1.5rem; /* Espaçamento interno do card. */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para dar profundidade. */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Transição suave para interações. */
+    border: 1px solid var(--tertiary-color); /* Borda sutil para definição. */
 }
 
 /* Estilos para os cards dentro da drop-zone */
 .card-in-zone {
-    cursor: pointer; /* Indica que o card é clicável para remoção */
+    cursor: pointer; /* Indica que o card é clicável para remoção. */
     transition: background-color 0.2s ease;
 }
 
 .card-in-zone:hover {
-    background-color: #2a285e; /* Cor de fundo mais clara ao passar o mouse */
+    background-color: #2a285e; /* Cor de fundo mais clara ao passar o mouse. */
     box-shadow: 0 0 0 0.1rem var(--secondary-color);
 }
 
@@ -173,7 +169,7 @@ article {
     display: flex;
     gap: 1rem;
     justify-content: center;
-    flex-wrap: wrap; /* Permite que os botões quebrem a linha se não houver espaço */
+    flex-wrap: wrap; /* Permite que os botões quebrem a linha se não houver espaço. */
 }
 
 .drop-zone-actions button {
@@ -200,7 +196,7 @@ article {
 
 /* Estilização da barra de rolagem da drop-zone */
 #drop-zone::-webkit-scrollbar {
-    width: 8px; /* Largura da barra de rolagem */
+    width: 8px; /* Largura da barra de rolagem. */
 }
 
 #drop-zone::-webkit-scrollbar-track {
@@ -209,152 +205,151 @@ article {
 }
 
 #drop-zone::-webkit-scrollbar-thumb {
-    background-color: var(--tertiary-color); /* Cor do polegar (a parte móvel) */
+    background-color: var(--tertiary-color); /* Cor da parte móvel da barra de rolagem. */
     border-radius: 1rem;
-    border: 2px solid var(--bg-color); /* Borda para criar um espaçamento visual */
+    border: 2px solid var(--bg-color); /* Borda para criar um espaçamento visual. */
 }
 
 article:hover {
-    transform: scale(1.01); /* Aumenta ligeiramente o tamanho ao passar o mouse */
-    cursor: grab; /* Muda o cursor para indicar que pode ser arrastado */
-    box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra de caixa ao passar o mouse */
+    transform: scale(1.01); /* Aumenta ligeiramente o tamanho do card no hover. */
+    cursor: grab; /* Muda o cursor para indicar que o elemento é arrastável. */
+    box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra de destaque no hover. */
 }
 
 article h2 {
-    margin-top: 0; /* Remove a margem superior */
-    font-weight: 600; /* Peso da fonte */
-    font-size: 1.6rem; /* Tamanho da fonte */
-    border-bottom: none; /* Sem borda inferior */
-    padding-bottom: 0; /* Sem espaçamento interno inferior */
-    margin-bottom: 0.25rem; /* Margem inferior */
-    color: var(--primary-color); /* Cor do texto */
+    margin-top: 0; /* Remove a margem superior do título do card. */
+    font-weight: 600; /* Define o peso da fonte. */
+    font-size: 1.6rem; /* Define o tamanho da fonte. */
+    border-bottom: none; /* Remove a borda inferior. */
+    padding-bottom: 0; /* Remove o espaçamento interno inferior. */
+    margin-bottom: 0.25rem; /* Adiciona uma pequena margem inferior. */
+    color: var(--primary-color); /* Define a cor do texto. */
 }
 
 article p {
-    margin: 0.5rem 0; /* Margem superior e inferior */
-    line-height: 1.6; /* Altura da linha para melhor legibilidade */
-    font-size: 1rem; /* Tamanho da fonte */
-    margin-bottom: 0.5rem; /* Margem inferior */
-    color: var(--secondary-color); /* Cor do texto */
+    margin: 0.5rem 0; /* Margem vertical para os parágrafos. */
+    line-height: 1.6; /* Altura da linha para melhor legibilidade. */
+    font-size: 1rem; /* Tamanho da fonte do texto. */
+    margin-bottom: 0.5rem; /* Margem inferior. */
+    color: var(--secondary-color); /* Cor do texto. */
 }
 
 article p strong {
-    color: var(--tertiary-color); /* Cor do texto em negrito */
-    font-weight: 400; /* Peso da fonte */
+    color: var(--tertiary-color); /* Cor para texto em negrito dentro dos parágrafos. */
+    font-weight: 400; /* Define o peso da fonte. */
 }
 
 article a {
-    color: var(--primary-color); /* Cor do link */
-    text-decoration: none; /* Remove o sublinhado padrão */
-    font-weight: 200; /* Peso da fonte */
+    color: var(--primary-color); /* Cor do link. */
+    text-decoration: none; /* Remove o sublinhado padrão. */
+    font-weight: 200; /* Define o peso da fonte. */
 }
 
 article a:hover {
-    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse para indicar interatividade. */
 }
 
 .footer {
-    margin-top: auto; /* Empurra o rodapé para o final do contêiner flex (body) */
-    width: 100%; /* Largura total */
-    color: var(--tertiary-color); /* Cor do texto */
-    background-color: var(--bg-color); /* Cor de fundo */
-    background-image: url('header.jpg');
-    padding: 15px 20px; /* Espaçamento interno */
-    border-top: 1px solid #3c4043; /* Borda superior */
-    font-size: 0.8rem; /* Tamanho da fonte */
+    margin-top: auto; /* Empurra o rodapé para o final da página. */
+    width: 100%; /* Ocupa a largura total. */
+    color: var(--tertiary-color); /* Cor do texto do rodapé. */
+    background-color: var(--bg-color); /* Cor de fundo do rodapé. */
+    padding: 15px 20px; /* Espaçamento interno. */
+    border-top: 1px solid #3c4043; /* Borda superior para separar do conteúdo. */
+    font-size: 0.8rem; /* Tamanho da fonte do rodapé. */
 }
 
 .footer-location {
-    color: #9aa0a6; /* Cor do texto */
-    margin-bottom: 10px; /* Margem inferior */
+    color: #9aa0a6; /* Cor do texto da localização. */
+    margin-bottom: 10px; /* Margem inferior. */
 }
 
 .footer-links {
-    list-style: none; /* Remove os marcadores da lista */
-    display: flex; /* Habilita o layout flexbox */
-    flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha */
-    justify-content: center; /* Centraliza os itens horizontalmente */
-    gap: 15px; /* Espaçamento entre os links */
+    list-style: none; /* Remove os marcadores da lista. */
+    display: flex; /* Habilita o layout flexbox. */
+    flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha. */
+    justify-content: center; /* Centraliza os links horizontalmente. */
+    gap: 15px; /* Espaçamento entre os links. */
 }
 
 .footer-links a {
-    color: var(--secondary-color); /* Cor do link */
-    text-decoration: none; /* Remove o sublinhado */
-    transition: color 0.2s; /* Transição suave para a cor */
+    color: var(--secondary-color); /* Cor dos links do rodapé. */
+    text-decoration: none; /* Remove o sublinhado. */
+    transition: color 0.2s; /* Transição suave para a cor no hover. */
 }
 
 .footer-links a:hover {
-    color: var(--accent-color); /* Muda a cor do link ao passar o mouse (variável não definida) */
+    color: var(--accent-color); /* Muda a cor do link ao passar o mouse (variável --accent-color não definida). */
 }
 
 @media (max-width: 1080px) {
-    header { /* Estilos para telas com largura máxima de 768px */
-        flex-direction: column; /* Organiza os itens do cabeçalho em coluna */
-        padding: 1rem; /* Reduz o espaçamento interno */
+    header { /* Ajustes para telas com largura máxima de 1080px. */
+        flex-direction: column; /* Organiza os itens do cabeçalho em coluna. */
+        padding: 1rem; /* Reduz o espaçamento interno. */
     }
 
-    header h1 { /* Estilos para o h1 no cabeçalho em telas menores */
-        text-align: center; /* Centraliza o texto */
-        margin-bottom: 1rem; /* Adiciona margem inferior */
+    header h1 { /* Ajustes para o h1 em telas menores. */
+        text-align: center; /* Centraliza o texto. */
+        margin-bottom: 1rem; /* Adiciona margem inferior. */
     }
 
-    div input { /* Estilos para o input em telas menores */
-        width: 90vw; /* Largura baseada na largura da viewport */
-        font-size: 1.2rem; /* Reduz o tamanho da fonte */
+    div input { /* Ajustes para o input em telas menores. */
+        width: 90vw; /* Largura baseada na largura da viewport. */
+        font-size: 1.2rem; /* Reduz o tamanho da fonte. */
     }
     
     .card-container {
-        grid-template-columns: repeat(2, 1fr); /* Muda para 2 colunas de cards em telas médias */
+        grid-template-columns: repeat(2, 1fr); /* Muda para 2 colunas de cards em telas médias. */
     }
 
-    main { /* Estilos para o main em telas menores */
-        padding: 0 1rem; /* Adiciona espaçamento lateral */
+    main { /* Ajustes para o main em telas menores. */
+        padding: 0 1rem; /* Adiciona espaçamento lateral. */
     }
 
-    article:hover { /* Estilos para o article em telas menores */
-        transform: none; /* Remove o efeito de escala ao passar o mouse */
+    article:hover { /* Remove o efeito de escala no hover para dispositivos que podem ser touch. */
+        transform: none;
     }
 }
 
 @media (max-width: 480px) {
-    header h1 { /* Estilos para o h1 em telas com largura máxima de 480px */
-        font-size: 1rem; /* Reduz ainda mais o tamanho da fonte */
-        max-width: 70%; /* Define uma largura máxima */
-        word-wrap: break-word; /* Permite a quebra de palavras longas */
+    header h1 { /* Ajustes para o h1 em telas com largura máxima de 480px. */
+        font-size: 1rem; /* Reduz ainda mais o tamanho da fonte. */
+        max-width: 70%; /* Define uma largura máxima para evitar quebra de layout. */
+        word-wrap: break-word; /* Permite a quebra de palavras longas. */
     }
     
     main {
-        flex-direction: column; /* Empilha as colunas em telas pequenas */
+        flex-direction: column; /* Empilha as colunas (cards e drop-zone) em telas pequenas. */
     }
 
     main {
     .card-container {
-        grid-template-columns: 1fr; /* Volta para 1 coluna de cards em telas pequenas */
+        grid-template-columns: 1fr; /* Volta para 1 coluna de cards em telas pequenas. */
     }
 
-    div input, /* Estilos para o input e seu placeholder em telas muito pequenas */
+    div input, /* Ajustes para o input e seu placeholder em telas muito pequenas. */
     div input::placeholder {
-        font-size: 1rem; /* Reduz o tamanho da fonte */
+        font-size: 1rem; /* Reduz o tamanho da fonte. */
     }
 
-    article h2 { /* Estilos para o h2 do article em telas muito pequenas */
-        font-size: 1.3rem; /* Reduz o tamanho da fonte */
+    article h2 { /* Ajustes para o h2 do article em telas muito pequenas. */
+        font-size: 1.3rem; /* Reduz o tamanho da fonte. */
     }
 
-    div { /* Estilos para a div do cabeçalho em telas muito pequenas */
-        display: flex; /* Habilita flexbox */
-        align-items: center; /* Alinha itens ao centro */
-        justify-content: center; /* Centraliza itens */
-        flex-direction: column; /* Organiza em coluna */
-        gap: 0.5rem; /* Espaçamento entre os itens */
+    div { /* Ajustes para a div do cabeçalho em telas muito pequenas. */
+        display: flex; /* Habilita flexbox. */
+        align-items: center; /* Alinha itens ao centro. */
+        justify-content: center; /* Centraliza itens. */
+        flex-direction: column; /* Organiza em coluna. */
+        gap: 0.5rem; /* Espaçamento entre os itens. */
     }
 
-    .footer { /* Estilos para o rodapé em telas muito pequenas */
-        display: none; /* Oculta o rodapé */
+    .footer { /* Oculta o rodapé em telas muito pequenas para economizar espaço. */
+        display: none;
     }
 
-    button { /* Estilos para o botão em telas muito pequenas */
-        margin-top: 1rem; /* Adiciona margem no topo */
+    button { /* Ajustes para o botão em telas muito pequenas. */
+        margin-top: 1rem; /* Adiciona margem no topo. */
     }
     }
 }
